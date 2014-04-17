@@ -5,6 +5,7 @@
  *
  * @version 1.0
  * @link http://fias.nalog.ru/Public/DownloadPage.aspx
+ * @link http://basicdata.ru/
  */
 class FiasDbf2Xml
 {

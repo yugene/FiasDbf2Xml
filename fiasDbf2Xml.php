@@ -205,7 +205,7 @@ class FiasDbf2Xml
      */
     protected function _printUsage()
     {
-        $this->_println('Usage: fiasDbf2Xml.php <filename.dbf>');
+        $this->_println('Usage: fiasDbf2Xml.php <path>');
         $this->_println('  Converts FIAS DBF files to XML.');
         $this->_println('');
     }
